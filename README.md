@@ -1,1 +1,3 @@
-"# Analisis_Sentimen_Topik_Googlenews" 
+# Analisis Sentimen Topik Googlenews
+
+Analisis Sentimen untuk Topik Berita di Gogglenews sederhana dalam Bahasa Indonesia
